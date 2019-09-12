@@ -93,7 +93,7 @@ def sosok():
 	time.sleep(3)
         print r+"LEVEl EASY"
 	time.sleep(3)
-	print y+"~berapa angka ajaib di web http://yes.inova.com~"
+	print y+"~berapa angka ajaib di web http://yes-inova.com~"
 	print y+"a.1,20,23"
 	print y+"b.4,3,7"
 	print y+"c.2,11,16"
@@ -109,7 +109,7 @@ def sosok():
 		time.sleep(3)
 	        print r+"LEVEl NORMAL"
 		time.sleep(3)
-		print y+"~berapa angka ajaib di web http://kagemjogja.com~"
+		print y+"~berapa angka ajaib di web http://kagemjogja.org~"
 		print y+"a.5,4,13,14,15,18,11,12"
 		print y+"b.13,18,6,17"
 		print y+"c.14,16,19,13,17,3,4"
